@@ -627,6 +627,8 @@ a[href*='tel'], a[href*='mailto'] {
 	position: relative;
 	padding: 8px 0px 10px 0px;
 	letter-spacing: .03em;
+	color: #FF0000;
+
 }
 
 @media (min-width: 1200px) {
